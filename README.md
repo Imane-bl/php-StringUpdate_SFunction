@@ -15,6 +15,9 @@
     - ucwords(String[Required], Delimiters[Optional])
     - str_repeat(String[Required], Count[Required])
 
+
+  
+  
   3#### String Functions######################################
     - implode(Separator[Optional], Array[Required]) => join() Is Alias
     - explode(Separator[Required], String[Required], Limit[Optional])
@@ -29,6 +32,9 @@
     --- Carriage Return \r
     --- Vertical Tab "\x0B"
     --- NULL "\0"
+
+
+
     
    4###### String Functions######################################
     - chunk_split(String[Required], Length[Optional], End[Optional])
@@ -36,7 +42,8 @@
     - str_split(String[Required], Length[Optional])
     - strip_tags(String[Required], Allowed[Optional])
     - nl2br(String[Required], XHTML[Optional])
-  */
+  
+  
   5#### String Functions######################################
     - strpos(String[Required], Value[Required], Start Position[Optional]) Case-Sensitive
     - strrpos(String[Required], Value[Required], Start Position[Optional]) Case-Sensitive
