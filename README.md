@@ -76,7 +76,8 @@
     - chr(Int[Required])
     - similar_text(String_One[Required], String_Two[Required], Percent[Optional])
     --- Returns The Number Of Matching Characters
-10##### String Functions######################################
+    
+10##### String Functions###############################################
     - strstr(String[Required], Search[Required], Before_Search[Optional] = False)
     --- => Alias [strchr]
     --- Case-Sensitive
